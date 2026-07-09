@@ -1,0 +1,96 @@
+{
+  "coffee": [
+    {
+      "id": 1,
+      "image": "./images/hero3__card1.jpg",
+      "title": "Cappucino",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.5
+    },
+    {
+      "id": 2,
+      "image": "./images/hero3__card2.jpg",
+      "title": "late",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.5
+    },
+    {
+      "id": 3,
+      "image": "./images/hero3__card3.jpg",
+      "title": "americano",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.5
+    },
+    {
+      "id": 4,
+      "image": "./images/hero3__card4.jpg",
+      "title": "espresso",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.5
+    },
+    {
+      "id": 5,
+      "image": "./images/hero3__card5.jpg",
+      "title": "ice-latte",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.5
+    },
+    {
+            "id": 6,
+      "image": "./images/hero3__card6.jpg",
+      "title": "ice-americano",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.50
+
+    },
+    {
+            "id": 7,
+      "image": "./images/hero3__card7.jpg",
+      "title": "raf",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.50
+
+    },
+    {
+            "id":8,
+      "image": "./images/hero3__card8.jpg",
+      "title": "matcha",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.50
+
+    },
+    {
+            "id": 9,
+      "image": "./images/hero3__card9.jpg",
+      "title": "coffee",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.50
+
+    },
+    {
+            "id": 10,
+      "image": "./images/hero3__card10.jpg",
+      "title": "Cappucino",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.50
+
+    },
+    {
+            "id": 11,
+      "image": "./images/hero3__card11.jpg",
+      "title": "Cappucino",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.50
+
+    },
+    {
+            "id": 12,
+      "image": "./images/hero3__card12.jpg",
+      "title": "Cappucino",
+      "description": "Coffee 50% | Milk 50%",
+      "price": 8.50
+
+    }
+    
+  ]
+}
