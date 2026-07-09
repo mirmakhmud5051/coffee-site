@@ -28,6 +28,6 @@ price.textContent = pro.price
     hero3Cards.appendChild(card);
     card.appendChild(description)
     card.appendChild(price)
-    card.className = 'hero3__cards--card'
+    card.classList = 'hero3__cards--card'
   });
 }

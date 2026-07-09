@@ -19,15 +19,17 @@
   display: flex;
   flex-direction: column;
 text-align: center;
-background-color: bisque;
+background-color: rgb(249, 230, 206);
 justify-content: center;
 align-items: center;
 gap: 20px;
+margin-top: 20px;
 }
 
 #hero3__cards{
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  gap:30px;
 }
 
 #hero3__cards img{
