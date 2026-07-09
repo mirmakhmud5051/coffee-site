@@ -2,28 +2,28 @@
   "coffee": [
     {
       "id": 1,
-      "image": "./images/hero3__card1.jpg",
+      "image": "./images/hero3__card1.png",
       "title": "Cappucino",
       "description": "Coffee 50% | Milk 50%",
       "price": 8.5
     },
     {
       "id": 2,
-      "image": "./images/hero3__card2.jpg",
+      "image": "./images/hero3__card2.png",
       "title": "late",
       "description": "Coffee 50% | Milk 50%",
       "price": 8.5
     },
     {
       "id": 3,
-      "image": "./images/hero3__card3.jpg",
+      "image": "./images/hero3__card3.png",
       "title": "americano",
       "description": "Coffee 50% | Milk 50%",
       "price": 8.5
     },
     {
       "id": 4,
-      "image": "./images/hero3__card4.jpg",
+      "image": "./images/hero3__card4.png",
       "title": "espresso",
       "description": "Coffee 50% | Milk 50%",
       "price": 8.5
