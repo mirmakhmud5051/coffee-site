@@ -600,3 +600,14 @@ footer{
   font-weight: 400;
 }
 
+
+@media(max-width: 1200px ) and (min-width:1025){
+  .hero2{
+    display: flex;
+
+  }
+
+  .hero2__cup{
+    display: none;
+  }
+}
